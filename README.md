@@ -36,8 +36,6 @@ Administrators can update product details, manage inventory, and respond to user
 
 **Secure Login and Session Management:** User authentication is managed with PHP session handling, ensuring secure and persistent access control across the application.
 
-**AJAX for Real-Time Interactivity:** AJAX is used for real-time updates in the chat feature and other interactive components, enhancing user experience without requiring page reloads.
-
 **Scalable Code Structure:** The application’s codebase is structured for scalability, supporting future additions such as design consultation, augmented reality previews, or third-party API integrations for enhanced features.
 
 This design_my_space Web Application is a comprehensive solution for interior design enthusiasts, offering them the ability to explore, discuss, and select items with ease, all while enjoying a secure, customized experience. With its robust architecture and user-centered design, the platform is well-equipped to foster engagement and deliver valuable interactions within the world of interior design.
